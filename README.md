@@ -1,6 +1,6 @@
 go run main.go -E hello
 
-result:
+#result:
 hello
 Translation:
   ...
